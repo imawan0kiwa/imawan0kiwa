@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 System analysis student at IASA, NTUU 'KPI'<br>I'm passionate about Data Science, Machine Learning and Deep Learning and am actively expanding my skills through self-directed learning and Kaggle competitions.
 
 
